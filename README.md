@@ -7,4 +7,4 @@ A Twitter follower recommended I integrate what I've learned into projects on oc
 ## What I've Learned
 
 ### CSS Grid
-While making the periodic table of elements, I found it most practical to deploy a grid layout using CSS. The grid layout has 18 columns and nine rows. Particular buttons has to be placed in specific grid locations. Using the shorthand grid-template-rows and grid-template-columns I was able to achieve this.
+While making the periodic table of elements, I found it most practical to deploy a grid layout using CSS. The grid layout has 18 columns and 11 rows. Particular buttons has to be placed in specific grid locations. Using the shorthand grid-template-rows and grid-template-columns I was able to achieve this.
